@@ -1,5 +1,5 @@
 
-# Android Fundamentals
+# Git guide course 
 
 The code is based on the Udemy course:
 **Git Complete: The definitive, step-by-step guide to Git**
